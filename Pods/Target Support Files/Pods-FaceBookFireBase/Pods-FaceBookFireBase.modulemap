@@ -1,0 +1,6 @@
+framework module Pods_FaceBookFireBase {
+  umbrella header "Pods-FaceBookFireBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
